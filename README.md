@@ -1,6 +1,9 @@
 # Prescripto-Doctor-Appointment-Booking-System
 Project: Prescripto – Doctor Appointment Booking System 🩺📱
 
+![image](https://github.com/user-attachments/assets/c6b8dc4e-bd28-4d8b-9f6b-6b711d0d5dcf)
+
+
 📌 Description:
 Prescripto is a full-stack web application built to digitalize and simplify the process of booking doctor appointments online 🏥. Patients can register, search for available doctors 👨‍⚕️👩‍⚕️, view availability 🕒, and book appointments 📅 with secure payment through Razorpay 💳. Doctors can manage their schedules, and admins can monitor the entire system via dashboards 🧑‍💼.
 
