@@ -60,9 +60,11 @@ Cloudinary
 Razorpay
 Your admin credentials and JWT secret
 
+
 4️⃣ Start the Backend Server
 npm start
 Runs at http://localhost:4000
+
 
 5️⃣ Start the Frontend React App
 cd frontend
