@@ -1,7 +1,8 @@
 # Prescripto-Doctor-Appointment-Booking-System
 Project: Prescripto – Doctor Appointment Booking System 🩺📱
 
-![image](https://github.com/user-attachments/assets/c6b8dc4e-bd28-4d8b-9f6b-6b711d0d5dcf)
+![Screenshot 2025-04-14 134052](https://github.com/user-attachments/assets/66ab9df5-3534-4fe0-ba22-9cf4513d709f)
+
 
 
 📌 Description:
