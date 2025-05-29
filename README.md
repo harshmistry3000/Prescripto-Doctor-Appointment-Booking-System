@@ -41,6 +41,7 @@ Admins: Manage all users and data
 Responsive UI: Optimized for both desktop and mobile 📱
 
 🛠️ How to Set Up and Run Locally
+
 1️⃣ Clone the Repository
 git clone https://github.com/whotfvasu/Prescripto.git
 cd Prescripto
