@@ -11,7 +11,7 @@ Prescripto is a full-stack web application built to digitalize and simplify the 
 It features real-time appointment booking, login/authentication 🔐, role-based access 👥, and responsive UI ⚛️📱 for seamless experience across all devices. This project offers practical experience in handling databases, cloud services, payment integrations, and modular architecture for scalable apps.
 
 ⚙️ Technologies Used:
-Frontend: React.js ⚛️, Axios, CSS
+Frontend: React.js ⚛️,CSS 
 
 Backend: Node.js, Express.js 🔧
 
